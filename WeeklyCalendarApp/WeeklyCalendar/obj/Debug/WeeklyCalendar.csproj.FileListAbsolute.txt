@@ -1,0 +1,10 @@
+C:\Users\ovlac\Documents\Uni Year 2\game-engine-implementation-Ochamberlai2\WeeklyCalendarApp\WeeklyCalendar\bin\Debug\WeeklyCalendar.exe.config
+C:\Users\ovlac\Documents\Uni Year 2\game-engine-implementation-Ochamberlai2\WeeklyCalendarApp\WeeklyCalendar\bin\Debug\WeeklyCalendar.exe
+C:\Users\ovlac\Documents\Uni Year 2\game-engine-implementation-Ochamberlai2\WeeklyCalendarApp\WeeklyCalendar\bin\Debug\WeeklyCalendar.pdb
+C:\Users\ovlac\Documents\Uni Year 2\game-engine-implementation-Ochamberlai2\WeeklyCalendarApp\WeeklyCalendar\obj\Debug\WeeklyCalendar.csprojResolveAssemblyReference.cache
+C:\Users\ovlac\Documents\Uni Year 2\game-engine-implementation-Ochamberlai2\WeeklyCalendarApp\WeeklyCalendar\obj\Debug\WeeklyCalendar.Calendar.resources
+C:\Users\ovlac\Documents\Uni Year 2\game-engine-implementation-Ochamberlai2\WeeklyCalendarApp\WeeklyCalendar\obj\Debug\WeeklyCalendar.Properties.Resources.resources
+C:\Users\ovlac\Documents\Uni Year 2\game-engine-implementation-Ochamberlai2\WeeklyCalendarApp\WeeklyCalendar\obj\Debug\WeeklyCalendar.csproj.GenerateResource.Cache
+C:\Users\ovlac\Documents\Uni Year 2\game-engine-implementation-Ochamberlai2\WeeklyCalendarApp\WeeklyCalendar\obj\Debug\WeeklyCalendar.exe
+C:\Users\ovlac\Documents\Uni Year 2\game-engine-implementation-Ochamberlai2\WeeklyCalendarApp\WeeklyCalendar\obj\Debug\WeeklyCalendar.pdb
+C:\Users\ovlac\Documents\Uni Year 2\game-engine-implementation-Ochamberlai2\WeeklyCalendarApp\WeeklyCalendar\obj\Debug\WeeklyCalendar.AddEntryForm.resources
