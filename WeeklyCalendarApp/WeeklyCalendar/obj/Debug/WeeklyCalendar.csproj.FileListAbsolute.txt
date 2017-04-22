@@ -8,3 +8,19 @@ C:\Users\ovlac\Documents\Uni Year 2\game-engine-implementation-Ochamberlai2\Week
 C:\Users\ovlac\Documents\Uni Year 2\game-engine-implementation-Ochamberlai2\WeeklyCalendarApp\WeeklyCalendar\obj\Debug\WeeklyCalendar.exe
 C:\Users\ovlac\Documents\Uni Year 2\game-engine-implementation-Ochamberlai2\WeeklyCalendarApp\WeeklyCalendar\obj\Debug\WeeklyCalendar.pdb
 C:\Users\ovlac\Documents\Uni Year 2\game-engine-implementation-Ochamberlai2\WeeklyCalendarApp\WeeklyCalendar\obj\Debug\WeeklyCalendar.AddEntryForm.resources
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\bin\Debug\WeeklyCalendar.exe.config
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\obj\Debug\WeeklyCalendar.exe
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\obj\Debug\WeeklyCalendar.pdb
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\bin\Debug\WeeklyCalendar.exe
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\bin\Debug\WeeklyCalendar.pdb
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\obj\Debug\WeeklyCalendar.AddEntryForm.resources
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\obj\Debug\WeeklyCalendar.Calendar.resources
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\obj\Debug\WeeklyCalendar.Properties.Resources.resources
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\obj\Debug\WeeklyCalendar.csproj.GenerateResource.Cache
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\bin\Debug\Newtonsoft.Json.dll
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\bin\Debug\Newtonsoft.Json.xml
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\bin\Debug\WeeklyCalendar.exe.manifest
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\bin\Debug\WeeklyCalendar.application
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\obj\Debug\WeeklyCalendar.exe.manifest
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\obj\Debug\WeeklyCalendar.application
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\obj\Debug\WeeklyCalendar.csprojResolveAssemblyReference.cache

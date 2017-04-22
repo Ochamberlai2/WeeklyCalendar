@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AddEntryForm));
             this.TitleBox = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -97,6 +98,11 @@
             // HourNum
             // 
             this.HourNum.Location = new System.Drawing.Point(58, 97);
+            this.HourNum.Maximum = new decimal(new int[] {
+            24,
+            0,
+            0,
+            0});
             this.HourNum.Name = "HourNum";
             this.HourNum.Size = new System.Drawing.Size(51, 22);
             this.HourNum.TabIndex = 6;
@@ -104,6 +110,11 @@
             // minuteNum
             // 
             this.minuteNum.Location = new System.Drawing.Point(116, 96);
+            this.minuteNum.Maximum = new decimal(new int[] {
+            60,
+            0,
+            0,
+            0});
             this.minuteNum.Name = "minuteNum";
             this.minuteNum.Size = new System.Drawing.Size(51, 22);
             this.minuteNum.TabIndex = 7;
@@ -152,8 +163,11 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.TitleBox);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "AddEntryForm";
             this.Text = "Add Entry";
+            this.Load += new System.EventHandler(this.AddEntryForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.HourNum)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.minuteNum)).EndInit();
             this.ResumeLayout(false);

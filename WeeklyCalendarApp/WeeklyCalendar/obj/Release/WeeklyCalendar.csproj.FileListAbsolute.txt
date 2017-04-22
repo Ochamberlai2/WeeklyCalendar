@@ -1,0 +1,16 @@
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\bin\Release\WeeklyCalendar.exe.config
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\bin\Release\WeeklyCalendar.exe
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\bin\Release\WeeklyCalendar.pdb
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\bin\Release\Newtonsoft.Json.dll
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\bin\Release\Newtonsoft.Json.xml
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\obj\Release\WeeklyCalendar.AddEntryForm.resources
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\obj\Release\WeeklyCalendar.Calendar.resources
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\obj\Release\WeeklyCalendar.Properties.Resources.resources
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\obj\Release\WeeklyCalendar.csproj.GenerateResource.Cache
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\obj\Release\WeeklyCalendar.exe
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\obj\Release\WeeklyCalendar.pdb
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\bin\Release\WeeklyCalendar.exe.manifest
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\bin\Release\WeeklyCalendar.application
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\obj\Release\WeeklyCalendar.csprojResolveAssemblyReference.cache
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\obj\Release\WeeklyCalendar.exe.manifest
+D:\Code_Projects\WeeklyCalendar\WeeklyCalendarApp\WeeklyCalendar\obj\Release\WeeklyCalendar.application

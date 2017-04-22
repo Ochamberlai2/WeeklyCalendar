@@ -5,6 +5,13 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeeklyCalendar", "WeeklyCalendar\WeeklyCalendar.csproj", "{563BD43E-30A9-4DEF-97F4-73855240F830}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{44835A70-3826-42F0-912D-64FE850141E0}"
+	ProjectSection(SolutionItems) = preProject
+		WeeklyCalendar\calendar-icon .ico = WeeklyCalendar\calendar-icon .ico
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WeeklyCalendarEXE", "WeeklyCalendarEXE\WeeklyCalendarEXE.vdproj", "{7104C03C-7C77-45DB-866D-4A14F0FE1315}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,8 @@ Global
 		{563BD43E-30A9-4DEF-97F4-73855240F830}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{563BD43E-30A9-4DEF-97F4-73855240F830}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{563BD43E-30A9-4DEF-97F4-73855240F830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7104C03C-7C77-45DB-866D-4A14F0FE1315}.Debug|Any CPU.ActiveCfg = Debug
+		{7104C03C-7C77-45DB-866D-4A14F0FE1315}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
